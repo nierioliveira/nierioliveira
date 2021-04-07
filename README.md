@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nierioliveira, I love tec, code
+- 🖐🏾 Hi, I’m @nierioliveira, I love tec, code
 - 👀 I’m interested in contribute with all I can
-- 🌱 I am currently in college studying Systems Analysis and Development 
+- 📚 I am currently in college studying Systems Analysis and Development 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: ( LinkedIn: https://www.linkedin.com/in/nieri-oliveira-23748320b/   Gmail: nierioliveira@gmail.com )
 - 💻 Let's do it 💪🏾💻
