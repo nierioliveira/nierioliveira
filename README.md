@@ -1,4 +1,4 @@
-- 🖐🏾 Hi, I’m @nierioliveira, I love tec, code
+- 🖐🏾 Hi, I’m @nierioliveira, I'm from Brazil
 - 👀 I’m interested in contribute with all I can
 - 📚 I am currently in college studying Systems Analysis and Development 
 - 💞️ I’m looking to collaborate on open source projects
